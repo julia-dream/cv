@@ -1,7 +1,5 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
 Gemfile.lock
+jekyll-theme-minimal.gemspec
+.DS_Store
+_site
+.jekyll-cache
