@@ -4,7 +4,7 @@ layout: default
 
 # Yuliya Panamar
 
-_Full-stack JavaScript developer based in Minsk/Warsaw_ <br>
+_Full-stack JavaScript developer based in Malaga/Warsaw/Minsk_ <br>
 
 [Email](mailto:jponomar.dev@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yuliya-panamar/) / [GitHub](https://github.com/julia-dream) / [Telegram](https://t.me/jponomar)
 
