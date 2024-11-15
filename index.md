@@ -33,6 +33,15 @@ Node.js, Nest, AWS, SQL
 
 Projects:
 
+📝 **Manifest Lab** - The platform to help lawyers identify high-value client matters and remove the need for free consultations and client vetting. It uses AI to identify cases and estimate value.
+ - Building a No-Code Application from Scratch: Utilized generative tools (ChatGPT and Cursor) to develop a fully functional application without writing code, speeding up the development process and reducing costs.
+ - Documentation and Team Training: Created detailed documentation for the developed solutions and conducted training sessions for the team, contributing to the skill development of employees.
+ - Development of AI Prompts: Created and optimized prompts, ensuring the retrieval of stable and high-quality data for model training.
+ - Prompt Optimization: Analyzed and refined existing prompts to enhance their effectiveness, leading to improved output quality and reduced testing time.
+ - Integration of Workflow in n8n: Designed and implemented a functional workflow that automated processes and improved interaction between various systems.
+ - **_Technologies used:_** Node.JS, Nest.js, ChatGPT, Prompting, Machine Learning, n8n, Groq, React.js/Redux, Axios, Next.js, dayjs, react-markdown.
+ <br><br>
+
  📝 **Infogrid** - Web platform, that enables users to manage, schedule, and control special monitoring devices for various purposes, depending on the type of device. The monitoring feature allows users to view necessary data online and check statistics through charts or tables
   - Created from scratch a system for frontend side interaction with physical sensors providing movement information
   - Introduced new type of chart called 'Heatmap' in order to increase the visibility of the final data provided to the user
